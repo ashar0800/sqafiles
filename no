@@ -1,0 +1,1 @@
+A program validates numeric fields as follows: values less than 10 are rejected, values between 10 and 21 are accepted, values greater than or equal to 22 are rejected. Which of the following input values cover all of the equivalence partitions?
